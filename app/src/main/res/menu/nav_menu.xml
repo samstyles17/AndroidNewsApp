@@ -1,0 +1,26 @@
+<!-- res/menu/nav_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_international_news"
+            android:title="International News"
+            android:icon="@drawable/internationalnews" />
+
+        <item
+            android:id="@+id/nav_national_news"
+            android:title="National News"
+            android:icon="@drawable/nationalnews" />
+
+        <item
+            android:id="@+id/nav_sports_news"
+            android:title="Sports News"
+            android:icon="@drawable/sportsnews" />
+
+        <item
+            android:id="@+id/nav_tech_news"
+            android:title="Tech News"
+            android:icon="@drawable/technews" />
+
+    </group>
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nn1"> Jammu  Kashmir Police on Saturday said they would take action in an alleged hate speech case in Jammu,hours after former Chief Minister Mehbooba Mufti posted a video on X,showing anti-Muslim slogans wereallegedly raised during a Tiranga Yatra in Jammu.Action is being taken under law against hate speech.The sloganeers will be arrested,a Jammu based police spokesperson said.The incident purportedly took place during an Independence Day rally in Jammu.</string>
+</resources>
